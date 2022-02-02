@@ -1,0 +1,9 @@
+flour 145
+sauce 5.5
+chicken 13
+seafood 2
+cheese 6
+beef 4
+spaghetti 5
+Riviolli 3
+lasagne 3
